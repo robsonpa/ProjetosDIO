@@ -1,0 +1,16 @@
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\crescimento_populacional\bin\Debug\net5.0\crescimento_populacional.exe
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\crescimento_populacional\bin\Debug\net5.0\crescimento_populacional.deps.json
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\crescimento_populacional\bin\Debug\net5.0\crescimento_populacional.runtimeconfig.json
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\crescimento_populacional\bin\Debug\net5.0\crescimento_populacional.runtimeconfig.dev.json
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\crescimento_populacional\bin\Debug\net5.0\crescimento_populacional.dll
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\crescimento_populacional\bin\Debug\net5.0\ref\crescimento_populacional.dll
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\crescimento_populacional\bin\Debug\net5.0\crescimento_populacional.pdb
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\crescimento_populacional\obj\Debug\net5.0\crescimento_populacional.csprojAssemblyReference.cache
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\crescimento_populacional\obj\Debug\net5.0\crescimento_populacional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\crescimento_populacional\obj\Debug\net5.0\crescimento_populacional.AssemblyInfoInputs.cache
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\crescimento_populacional\obj\Debug\net5.0\crescimento_populacional.AssemblyInfo.cs
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\crescimento_populacional\obj\Debug\net5.0\crescimento_populacional.csproj.CoreCompileInputs.cache
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\crescimento_populacional\obj\Debug\net5.0\crescimento_populacional.dll
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\crescimento_populacional\obj\Debug\net5.0\ref\crescimento_populacional.dll
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\crescimento_populacional\obj\Debug\net5.0\crescimento_populacional.pdb
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\crescimento_populacional\obj\Debug\net5.0\crescimento_populacional.genruntimeconfig.cache

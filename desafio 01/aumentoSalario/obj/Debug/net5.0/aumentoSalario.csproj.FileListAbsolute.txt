@@ -1,0 +1,16 @@
+C:\Projetos\bootcamps\localiza\desafio 01\aumentoSalario\bin\Debug\net5.0\aumentoSalario.exe
+C:\Projetos\bootcamps\localiza\desafio 01\aumentoSalario\bin\Debug\net5.0\aumentoSalario.deps.json
+C:\Projetos\bootcamps\localiza\desafio 01\aumentoSalario\bin\Debug\net5.0\aumentoSalario.runtimeconfig.json
+C:\Projetos\bootcamps\localiza\desafio 01\aumentoSalario\bin\Debug\net5.0\aumentoSalario.runtimeconfig.dev.json
+C:\Projetos\bootcamps\localiza\desafio 01\aumentoSalario\bin\Debug\net5.0\aumentoSalario.dll
+C:\Projetos\bootcamps\localiza\desafio 01\aumentoSalario\bin\Debug\net5.0\ref\aumentoSalario.dll
+C:\Projetos\bootcamps\localiza\desafio 01\aumentoSalario\bin\Debug\net5.0\aumentoSalario.pdb
+C:\Projetos\bootcamps\localiza\desafio 01\aumentoSalario\obj\Debug\net5.0\aumentoSalario.csprojAssemblyReference.cache
+C:\Projetos\bootcamps\localiza\desafio 01\aumentoSalario\obj\Debug\net5.0\aumentoSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\bootcamps\localiza\desafio 01\aumentoSalario\obj\Debug\net5.0\aumentoSalario.AssemblyInfoInputs.cache
+C:\Projetos\bootcamps\localiza\desafio 01\aumentoSalario\obj\Debug\net5.0\aumentoSalario.AssemblyInfo.cs
+C:\Projetos\bootcamps\localiza\desafio 01\aumentoSalario\obj\Debug\net5.0\aumentoSalario.csproj.CoreCompileInputs.cache
+C:\Projetos\bootcamps\localiza\desafio 01\aumentoSalario\obj\Debug\net5.0\aumentoSalario.dll
+C:\Projetos\bootcamps\localiza\desafio 01\aumentoSalario\obj\Debug\net5.0\ref\aumentoSalario.dll
+C:\Projetos\bootcamps\localiza\desafio 01\aumentoSalario\obj\Debug\net5.0\aumentoSalario.pdb
+C:\Projetos\bootcamps\localiza\desafio 01\aumentoSalario\obj\Debug\net5.0\aumentoSalario.genruntimeconfig.cache

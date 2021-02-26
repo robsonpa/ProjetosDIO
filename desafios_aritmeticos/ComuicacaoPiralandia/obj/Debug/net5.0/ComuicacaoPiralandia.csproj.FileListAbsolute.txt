@@ -1,0 +1,16 @@
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\ComuicacaoPiralandia\bin\Debug\net5.0\ComuicacaoPiralandia.exe
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\ComuicacaoPiralandia\bin\Debug\net5.0\ComuicacaoPiralandia.deps.json
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\ComuicacaoPiralandia\bin\Debug\net5.0\ComuicacaoPiralandia.runtimeconfig.json
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\ComuicacaoPiralandia\bin\Debug\net5.0\ComuicacaoPiralandia.runtimeconfig.dev.json
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\ComuicacaoPiralandia\bin\Debug\net5.0\ComuicacaoPiralandia.dll
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\ComuicacaoPiralandia\bin\Debug\net5.0\ref\ComuicacaoPiralandia.dll
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\ComuicacaoPiralandia\bin\Debug\net5.0\ComuicacaoPiralandia.pdb
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\ComuicacaoPiralandia\obj\Debug\net5.0\ComuicacaoPiralandia.csprojAssemblyReference.cache
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\ComuicacaoPiralandia\obj\Debug\net5.0\ComuicacaoPiralandia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\ComuicacaoPiralandia\obj\Debug\net5.0\ComuicacaoPiralandia.AssemblyInfoInputs.cache
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\ComuicacaoPiralandia\obj\Debug\net5.0\ComuicacaoPiralandia.AssemblyInfo.cs
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\ComuicacaoPiralandia\obj\Debug\net5.0\ComuicacaoPiralandia.csproj.CoreCompileInputs.cache
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\ComuicacaoPiralandia\obj\Debug\net5.0\ComuicacaoPiralandia.dll
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\ComuicacaoPiralandia\obj\Debug\net5.0\ref\ComuicacaoPiralandia.dll
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\ComuicacaoPiralandia\obj\Debug\net5.0\ComuicacaoPiralandia.pdb
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\ComuicacaoPiralandia\obj\Debug\net5.0\ComuicacaoPiralandia.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\Bazinga\obj\Debug\net5.0\Bazinga.csprojAssemblyReference.cache
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\Bazinga\obj\Debug\net5.0\Bazinga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\Bazinga\obj\Debug\net5.0\Bazinga.AssemblyInfoInputs.cache
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\Bazinga\obj\Debug\net5.0\Bazinga.AssemblyInfo.cs
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\Bazinga\obj\Debug\net5.0\Bazinga.csproj.CoreCompileInputs.cache
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\Bazinga\bin\Debug\net5.0\Bazinga.exe
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\Bazinga\bin\Debug\net5.0\Bazinga.deps.json
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\Bazinga\bin\Debug\net5.0\Bazinga.runtimeconfig.json
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\Bazinga\bin\Debug\net5.0\Bazinga.runtimeconfig.dev.json
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\Bazinga\bin\Debug\net5.0\Bazinga.dll
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\Bazinga\bin\Debug\net5.0\ref\Bazinga.dll
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\Bazinga\bin\Debug\net5.0\Bazinga.pdb
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\Bazinga\obj\Debug\net5.0\Bazinga.dll
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\Bazinga\obj\Debug\net5.0\ref\Bazinga.dll
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\Bazinga\obj\Debug\net5.0\Bazinga.pdb
+C:\Projetos\bootcamps\localiza\desafios_aritmeticos\Bazinga\obj\Debug\net5.0\Bazinga.genruntimeconfig.cache
