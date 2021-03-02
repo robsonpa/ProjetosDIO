@@ -1,0 +1,16 @@
+C:\Projetos\bootcamps\ProjetosDIO\Compras_no_supermercado\obj\Debug\net5.0\Compras_no_supermercado.csprojAssemblyReference.cache
+C:\Projetos\bootcamps\ProjetosDIO\Compras_no_supermercado\obj\Debug\net5.0\Compras_no_supermercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\bootcamps\ProjetosDIO\Compras_no_supermercado\obj\Debug\net5.0\Compras_no_supermercado.AssemblyInfoInputs.cache
+C:\Projetos\bootcamps\ProjetosDIO\Compras_no_supermercado\obj\Debug\net5.0\Compras_no_supermercado.AssemblyInfo.cs
+C:\Projetos\bootcamps\ProjetosDIO\Compras_no_supermercado\obj\Debug\net5.0\Compras_no_supermercado.csproj.CoreCompileInputs.cache
+C:\Projetos\bootcamps\ProjetosDIO\Compras_no_supermercado\bin\Debug\net5.0\Compras_no_supermercado.exe
+C:\Projetos\bootcamps\ProjetosDIO\Compras_no_supermercado\bin\Debug\net5.0\Compras_no_supermercado.deps.json
+C:\Projetos\bootcamps\ProjetosDIO\Compras_no_supermercado\bin\Debug\net5.0\Compras_no_supermercado.runtimeconfig.json
+C:\Projetos\bootcamps\ProjetosDIO\Compras_no_supermercado\bin\Debug\net5.0\Compras_no_supermercado.runtimeconfig.dev.json
+C:\Projetos\bootcamps\ProjetosDIO\Compras_no_supermercado\bin\Debug\net5.0\Compras_no_supermercado.dll
+C:\Projetos\bootcamps\ProjetosDIO\Compras_no_supermercado\bin\Debug\net5.0\ref\Compras_no_supermercado.dll
+C:\Projetos\bootcamps\ProjetosDIO\Compras_no_supermercado\bin\Debug\net5.0\Compras_no_supermercado.pdb
+C:\Projetos\bootcamps\ProjetosDIO\Compras_no_supermercado\obj\Debug\net5.0\Compras_no_supermercado.dll
+C:\Projetos\bootcamps\ProjetosDIO\Compras_no_supermercado\obj\Debug\net5.0\ref\Compras_no_supermercado.dll
+C:\Projetos\bootcamps\ProjetosDIO\Compras_no_supermercado\obj\Debug\net5.0\Compras_no_supermercado.pdb
+C:\Projetos\bootcamps\ProjetosDIO\Compras_no_supermercado\obj\Debug\net5.0\Compras_no_supermercado.genruntimeconfig.cache

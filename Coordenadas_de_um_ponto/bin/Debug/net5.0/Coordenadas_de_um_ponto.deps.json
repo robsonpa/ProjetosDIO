@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Coordenadas_de_um_ponto/1.0.0": {
+        "runtime": {
+          "Coordenadas_de_um_ponto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Coordenadas_de_um_ponto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

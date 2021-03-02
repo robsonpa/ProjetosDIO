@@ -1,0 +1,16 @@
+C:\Projetos\bootcamps\ProjetosDIO\Pink_e_Cerebro\bin\Debug\net5.0\Pink_e_Cerebro.exe
+C:\Projetos\bootcamps\ProjetosDIO\Pink_e_Cerebro\bin\Debug\net5.0\Pink_e_Cerebro.deps.json
+C:\Projetos\bootcamps\ProjetosDIO\Pink_e_Cerebro\bin\Debug\net5.0\Pink_e_Cerebro.runtimeconfig.json
+C:\Projetos\bootcamps\ProjetosDIO\Pink_e_Cerebro\bin\Debug\net5.0\Pink_e_Cerebro.runtimeconfig.dev.json
+C:\Projetos\bootcamps\ProjetosDIO\Pink_e_Cerebro\bin\Debug\net5.0\Pink_e_Cerebro.dll
+C:\Projetos\bootcamps\ProjetosDIO\Pink_e_Cerebro\bin\Debug\net5.0\ref\Pink_e_Cerebro.dll
+C:\Projetos\bootcamps\ProjetosDIO\Pink_e_Cerebro\bin\Debug\net5.0\Pink_e_Cerebro.pdb
+C:\Projetos\bootcamps\ProjetosDIO\Pink_e_Cerebro\obj\Debug\net5.0\Pink_e_Cerebro.csprojAssemblyReference.cache
+C:\Projetos\bootcamps\ProjetosDIO\Pink_e_Cerebro\obj\Debug\net5.0\Pink_e_Cerebro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\bootcamps\ProjetosDIO\Pink_e_Cerebro\obj\Debug\net5.0\Pink_e_Cerebro.AssemblyInfoInputs.cache
+C:\Projetos\bootcamps\ProjetosDIO\Pink_e_Cerebro\obj\Debug\net5.0\Pink_e_Cerebro.AssemblyInfo.cs
+C:\Projetos\bootcamps\ProjetosDIO\Pink_e_Cerebro\obj\Debug\net5.0\Pink_e_Cerebro.csproj.CoreCompileInputs.cache
+C:\Projetos\bootcamps\ProjetosDIO\Pink_e_Cerebro\obj\Debug\net5.0\Pink_e_Cerebro.dll
+C:\Projetos\bootcamps\ProjetosDIO\Pink_e_Cerebro\obj\Debug\net5.0\ref\Pink_e_Cerebro.dll
+C:\Projetos\bootcamps\ProjetosDIO\Pink_e_Cerebro\obj\Debug\net5.0\Pink_e_Cerebro.pdb
+C:\Projetos\bootcamps\ProjetosDIO\Pink_e_Cerebro\obj\Debug\net5.0\Pink_e_Cerebro.genruntimeconfig.cache

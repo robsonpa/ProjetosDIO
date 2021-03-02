@@ -1,0 +1,16 @@
+C:\Projetos\bootcamps\ProjetosDIO\Coordenadas_de_um_ponto\bin\Debug\net5.0\Coordenadas_de_um_ponto.exe
+C:\Projetos\bootcamps\ProjetosDIO\Coordenadas_de_um_ponto\bin\Debug\net5.0\Coordenadas_de_um_ponto.deps.json
+C:\Projetos\bootcamps\ProjetosDIO\Coordenadas_de_um_ponto\bin\Debug\net5.0\Coordenadas_de_um_ponto.runtimeconfig.json
+C:\Projetos\bootcamps\ProjetosDIO\Coordenadas_de_um_ponto\bin\Debug\net5.0\Coordenadas_de_um_ponto.runtimeconfig.dev.json
+C:\Projetos\bootcamps\ProjetosDIO\Coordenadas_de_um_ponto\bin\Debug\net5.0\Coordenadas_de_um_ponto.dll
+C:\Projetos\bootcamps\ProjetosDIO\Coordenadas_de_um_ponto\bin\Debug\net5.0\ref\Coordenadas_de_um_ponto.dll
+C:\Projetos\bootcamps\ProjetosDIO\Coordenadas_de_um_ponto\bin\Debug\net5.0\Coordenadas_de_um_ponto.pdb
+C:\Projetos\bootcamps\ProjetosDIO\Coordenadas_de_um_ponto\obj\Debug\net5.0\Coordenadas_de_um_ponto.csprojAssemblyReference.cache
+C:\Projetos\bootcamps\ProjetosDIO\Coordenadas_de_um_ponto\obj\Debug\net5.0\Coordenadas_de_um_ponto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\bootcamps\ProjetosDIO\Coordenadas_de_um_ponto\obj\Debug\net5.0\Coordenadas_de_um_ponto.AssemblyInfoInputs.cache
+C:\Projetos\bootcamps\ProjetosDIO\Coordenadas_de_um_ponto\obj\Debug\net5.0\Coordenadas_de_um_ponto.AssemblyInfo.cs
+C:\Projetos\bootcamps\ProjetosDIO\Coordenadas_de_um_ponto\obj\Debug\net5.0\Coordenadas_de_um_ponto.csproj.CoreCompileInputs.cache
+C:\Projetos\bootcamps\ProjetosDIO\Coordenadas_de_um_ponto\obj\Debug\net5.0\Coordenadas_de_um_ponto.dll
+C:\Projetos\bootcamps\ProjetosDIO\Coordenadas_de_um_ponto\obj\Debug\net5.0\ref\Coordenadas_de_um_ponto.dll
+C:\Projetos\bootcamps\ProjetosDIO\Coordenadas_de_um_ponto\obj\Debug\net5.0\Coordenadas_de_um_ponto.pdb
+C:\Projetos\bootcamps\ProjetosDIO\Coordenadas_de_um_ponto\obj\Debug\net5.0\Coordenadas_de_um_ponto.genruntimeconfig.cache
