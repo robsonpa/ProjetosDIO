@@ -1,0 +1,16 @@
+C:\Projetos\bootcamps\ProjetosDIO\desafios_aritmeticos\media\bin\Debug\net5.0\media.exe
+C:\Projetos\bootcamps\ProjetosDIO\desafios_aritmeticos\media\bin\Debug\net5.0\media.deps.json
+C:\Projetos\bootcamps\ProjetosDIO\desafios_aritmeticos\media\bin\Debug\net5.0\media.runtimeconfig.json
+C:\Projetos\bootcamps\ProjetosDIO\desafios_aritmeticos\media\bin\Debug\net5.0\media.runtimeconfig.dev.json
+C:\Projetos\bootcamps\ProjetosDIO\desafios_aritmeticos\media\bin\Debug\net5.0\media.dll
+C:\Projetos\bootcamps\ProjetosDIO\desafios_aritmeticos\media\bin\Debug\net5.0\ref\media.dll
+C:\Projetos\bootcamps\ProjetosDIO\desafios_aritmeticos\media\bin\Debug\net5.0\media.pdb
+C:\Projetos\bootcamps\ProjetosDIO\desafios_aritmeticos\media\obj\Debug\net5.0\media.csprojAssemblyReference.cache
+C:\Projetos\bootcamps\ProjetosDIO\desafios_aritmeticos\media\obj\Debug\net5.0\media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\bootcamps\ProjetosDIO\desafios_aritmeticos\media\obj\Debug\net5.0\media.AssemblyInfoInputs.cache
+C:\Projetos\bootcamps\ProjetosDIO\desafios_aritmeticos\media\obj\Debug\net5.0\media.AssemblyInfo.cs
+C:\Projetos\bootcamps\ProjetosDIO\desafios_aritmeticos\media\obj\Debug\net5.0\media.csproj.CoreCompileInputs.cache
+C:\Projetos\bootcamps\ProjetosDIO\desafios_aritmeticos\media\obj\Debug\net5.0\media.dll
+C:\Projetos\bootcamps\ProjetosDIO\desafios_aritmeticos\media\obj\Debug\net5.0\ref\media.dll
+C:\Projetos\bootcamps\ProjetosDIO\desafios_aritmeticos\media\obj\Debug\net5.0\media.pdb
+C:\Projetos\bootcamps\ProjetosDIO\desafios_aritmeticos\media\obj\Debug\net5.0\media.genruntimeconfig.cache

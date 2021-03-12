@@ -1,0 +1,5 @@
+C:\Projetos\bootcamps\ProjetosDIO\desafios_aritmeticos\tipo_combustivel\obj\Debug\net5.0\tipo_combustivel.csprojAssemblyReference.cache
+C:\Projetos\bootcamps\ProjetosDIO\desafios_aritmeticos\tipo_combustivel\obj\Debug\net5.0\tipo_combustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\bootcamps\ProjetosDIO\desafios_aritmeticos\tipo_combustivel\obj\Debug\net5.0\tipo_combustivel.AssemblyInfoInputs.cache
+C:\Projetos\bootcamps\ProjetosDIO\desafios_aritmeticos\tipo_combustivel\obj\Debug\net5.0\tipo_combustivel.AssemblyInfo.cs
+C:\Projetos\bootcamps\ProjetosDIO\desafios_aritmeticos\tipo_combustivel\obj\Debug\net5.0\tipo_combustivel.csproj.CoreCompileInputs.cache
